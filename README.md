@@ -24,3 +24,14 @@ Python-Newsfeed with Python, pip's Python Packages Index (PyPI): Flask, SQLAlche
 * Capture data in a Flask POST route.
 * Implement sessions in a Flask app.
 * Handle errors using `try...except` statements.
+
+How to run:
+
+
+must have python 3.6 or higher.
+
+powershell :
+
+```
+python -m flask run
+```
